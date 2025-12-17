@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Utkarsh Pratap Singh</h1>
-<h3 align="center">
+<!-- Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Utkarsh+Pratap+Singh" alt="Typing SVG" />
+</p>
+
+<h3>
 BTech CSE @ MNNIT Allahabad | Full-Stack Developer | DSA & Problem Solving Enthusiast
 </h3>
 
@@ -21,19 +25,19 @@ BTech CSE @ MNNIT Allahabad | Full-Stack Developer | DSA & Problem Solving Enthu
 ## 💬 Ask Me About
 - Data Structures & Algorithms  
 - React.js, Node.js, Express  
-- Full-stack project development
+- Full-stack project development  
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript" />
 </p>
 
 ### Frameworks & Tools
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,postgres,mongodb,git,github,vscode" />
 </p>
 
@@ -43,8 +47,8 @@ BTech CSE @ MNNIT Allahabad | Full-Stack Developer | DSA & Problem Solving Enthu
 - **Caravan Chronicle** – Grievance redressal & city management platform  
 - **Medium** – Full-stack blogging application with authentication and database support  
 
-👉 Check out all my projects here:  
-**🔗 https://github.com/UtkarshPratapSingh7777**
+🔗 **All projects:**  
+https://github.com/UtkarshPratapSingh7777
 
 ---
 
@@ -56,8 +60,8 @@ BTech CSE @ MNNIT Allahabad | Full-Stack Developer | DSA & Problem Solving Enthu
 ---
 
 ## 📫 How to Reach Me
-- 📧 Email: **utkarshpsingh007@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/utkarshps07
+- 📧 **utkarshpsingh007@gmail.com**
+- 💼 https://www.linkedin.com/in/utkarshps07
 
 ---
 
