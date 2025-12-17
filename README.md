@@ -1,16 +1,71 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Utkarsh Pratap Singh</h1>
+<h3 align="center">
+BTech CSE @ MNNIT Allahabad | Full-Stack Developer | DSA & Problem Solving Enthusiast
+</h3>
 
-<!--
-**UtkarshPratapSingh7777/UtkarshPratapSingh7777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🎓 Computer Science undergraduate at **Motilal Nehru National Institute of Technology, Allahabad**
+- 💻 Interested in **Full-Stack Web Development** and **Data Structures & Algorithms**
+- 🧠 Enjoy solving algorithmic problems and building scalable web applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 Currently Learning
+- Advanced **Data Structures & Algorithms**
+- **Artificial Intelligence and Machine Learning**
+
+---
+
+## 💬 Ask Me About
+- Data Structures & Algorithms  
+- React.js, Node.js, Express  
+- Full-stack project development
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript" />
+</p>
+
+### Frameworks & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,postgres,mongodb,git,github,vscode" />
+</p>
+
+---
+
+## 📌 Featured Projects
+- **Caravan Chronicle** – Grievance redressal & city management platform  
+- **Medium** – Full-stack blogging application with authentication and database support  
+
+👉 Check out all my projects here:  
+**🔗 https://github.com/UtkarshPratapSingh7777**
+
+---
+
+## 🏆 Achievements
+- 🥉 **3rd Rank** – Codotron, Avishkar MNNIT (DSA + Debugging)
+- 🧪 **AlgoUniversity Technology Fellowship** – Stage 2 Qualified (Top 5.37%)
+- 📊 **JEE Mains 2024 AIR 3696**
+
+---
+
+## 📫 How to Reach Me
+- 📧 Email: **utkarshpsingh007@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/utkarshps07
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=UtkarshPratapSingh7777&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshPratapSingh7777&layout=compact&theme=default" />
+</p>
