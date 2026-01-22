@@ -44,7 +44,7 @@ BTech CSE @ MNNIT Allahabad | Full-Stack Developer | DSA & Problem Solving Enthu
 ---
 
 ## 📌 Featured Projects
-- **Caravan Chronicle** – Grievance redressal & city management platform  
+- **Grievio** – Grievance redressal & city management platform  
 - **Medium** – Full-stack blogging application with authentication and database support  
 
 🔗 **All projects:**  
