@@ -45,7 +45,7 @@ BTech CSE @ MNNIT Allahabad | Full-Stack Developer | DSA & Problem Solving Enthu
 
 ## 📌 Featured Projects
 - **Grievio** – Grievance redressal & city management platform  
-- **Medium** – Full-stack blogging application with authentication and database support  
+- **Scriptly** – Scriptly is an edge-ready blogging platform designed to support authenticated content creation and discovery. It emphasizes modular backend design, JWT-based authentication, relational database modeling with Prisma, and consistent schema validation across frontend and backend layers.
 
 🔗 **All projects:**  
 https://github.com/UtkarshPratapSingh7777
